@@ -1,0 +1,7 @@
+C:\Users\Student.POLCOL\source\repos\ahahahah\obj\Debug\ahahahah.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\source\repos\ahahahah\obj\Debug\ahahahah.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\source\repos\ahahahah\bin\Debug\ahahahah.exe.config
+C:\Users\Student.POLCOL\source\repos\ahahahah\bin\Debug\ahahahah.exe
+C:\Users\Student.POLCOL\source\repos\ahahahah\bin\Debug\ahahahah.pdb
+C:\Users\Student.POLCOL\source\repos\ahahahah\obj\Debug\ahahahah.exe
+C:\Users\Student.POLCOL\source\repos\ahahahah\obj\Debug\ahahahah.pdb
